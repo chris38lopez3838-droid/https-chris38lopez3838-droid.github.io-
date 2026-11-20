@@ -1,4 +1,4 @@
-# https-chris38lopez3838-droid.github.io-
+# https://chris38lopez3838-droid.github.io-/
 # AI Money Command Center
 
 An autonomous financial operations dashboard and multi-agent management studio built for 2026–2027 planning and wealth operations.
